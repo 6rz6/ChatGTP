@@ -3,7 +3,9 @@ Open AI ChatGTP modules taken to the extream
 
 Python Terminal which can execute code in chatgtp:
 --------------------------------------------------------
-```can you run the following code in a python terminal simulation?
+```
+can you run the following code in a python terminal simulation?
+
 import requests
 from bs4 import BeautifulSoup
 
