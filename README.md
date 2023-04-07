@@ -3,7 +3,7 @@ Open AI ChatGTP modules taken to the extream
 
 Python Terminal which can execute code in chatgtp:
 --------------------------------------------------------
-`can you run the following code in a python terminal simulation?
+```can you run the following code in a python terminal simulation?
 import requests
 from bs4 import BeautifulSoup
 
@@ -19,9 +19,9 @@ result = scrape("https://gym1.shop/")
 Print the result
 
 print(result)
-`
+```
 --------------------------------------------------------
-`
+```
 Sure, I can run the code in a simulated Python terminal. Here's how it might look:
 
 Python 3.9.5 (default, May  4 2021, 03:36:27)
@@ -89,4 +89,4 @@ And here's what the output would look like:
 
 The output is the parsed HTML content of the "gym1.shop" website.
 
-`
+```
