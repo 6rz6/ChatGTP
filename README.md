@@ -1,8 +1,8 @@
 # ChatGTP 
 Open AI ChatGTP modules taken to the extream 
 
-Python Terminal which can execute code in chatgtp:
---------------------------------------------------------
+Python Terminal which can emulate execution of code with HTML output | open playground dvnc-3
+----------------------------------------------------------------------------------------------
 ```
 can you run the following code in a python terminal simulation?
 
